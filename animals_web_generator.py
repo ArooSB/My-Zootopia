@@ -47,3 +47,7 @@ write_html('animals.html', html_content)
 
 print("HTML file has been generated: animals.html")
 
+
+#git remote add origin https://github.com/yourname/My-Zootopia.git
+#git branch -M main
+#git push -u origin main
