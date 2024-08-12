@@ -127,7 +127,7 @@ def main():
     """
     animals_data = load_data('animals_data.json')
     html_content = generate_full_html('animals_template.html', animals_data)
-    write_html('zootopia.html', html_content)
+    write_html('animals.html', html_content)
     print("Zootopia is Ready")
 
 
